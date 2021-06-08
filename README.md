@@ -11,14 +11,14 @@ There are no standard dimensions for a playing field, just a sufficiently large 
 
 ![Dashball_Field](https://user-images.githubusercontent.com/990052/120408149-6c652280-c31c-11eb-9ee2-2441bfb31fea.png)
 
-### Batting Area, Pitching Area, and Base
+### Batting Area, Pitching Zone, and Base
 
 The three essential areas of a playing field are:
-* The batting area - where the batting team hits or kicks from
-* The pitching area - where balls are thrown to the batter or rolled to the kicker (you don't need a pitching if playing T-Ball style)
-* The base - where batters run after hitting or kicking the ball
+* Batting Area - where the batting team hits or kicks from, also know as "home"
+* Pitching Zone - where balls are thrown to the batter or rolled to the kicker (you don't need a pitching if playing T-Ball style)
+* Base - where batters run after hitting or kicking the ball
 
-If batters maange to hit/kick the ball pitched/rolled to them, they must run to the base. Therefore, the base should be within a decent distance from the batting area. Similarly, the pitching area should be a respectable distance from the batting area so the pitcher can field, as there are generally few fielders.
+If batters manage to hit/kick the ball pitched/rolled to them into play (i.e. an in-bounds area), they must run to the base, so the base should be within a reasonable distance from the batting area. Similarly, the pitching zone should be a respectable distance from the batting area so the pitcher can reach the batter but also be able to field, as there are generally few fielders.
 
 ### In-Bounds/Out-Bounds
 
@@ -30,7 +30,7 @@ Also, because there is no catcher positions and generally few fielders, it's com
 
 ### Base Placement
 
-Original games of dashball were played in a field that had a fence at the far end; it served as the home run boundary and the base. Alternatively, the field can be more akin to a baseball field where the (second) base is somewhat in the middle of the playing field.
+Original games of dashball were played in a field that had a fence at the far end that served as both the home run boundary and the base. Alternatively, the field can be more akin to a baseball field where the (second) base is somewhat in the middle of the playing field.
 
 Generally, the wider the "in bounds" area of the field and/or the faster the base runners, the farther back the base should be.
 
@@ -62,19 +62,22 @@ Dashball works best with three to eight players but can be played with more.
   * Approach 2: Three teams; two teams have three players and the third team has two. The two-player team may consist of the strongest players or be given some compensating advantage.
 
 ## Game Play
-Game play is similar to baseball. 
-* Batters attempt to hit the balls thrown at them. If they fail to connect in three (good) throws, they're out. Bad throws are considered balls. There are no walks.
-* If a batter hits the ball into play, fielders attempt to get the batter out while the batter runs to the sole base. Fielders can get the batter out by
-  * Catching the ball before it hits the ground
-  * Throwing and hitting the base runner with the ball while the base runner is not on base.
-  * Touching the base runner with the ball while the base runner is not on base.
-* There is only one base. Once a batter hits/kicks the ball into play, the batter must run to the base area. 
-  * After arriving on base safely, a runner can choose to run back home or remain on base.
+Game play is similar to baseball.
+* The batting team gets _X_ outs per inning, where _X_ is equal to the number of players or 2, whichever is larger. This is to ensure every player gets to bat at least once per rotation. Outs occur only when:
+  * The batter fails to hit/kick the ball after 3 good throws
+  * A fielder catches the ball hit/kicked by the batter before the ball touches the ground
+  * A batter not on base is hit by the ball when thrown by a fielder
+  * A batter running to or from base intentionally runs into, trips, or otherwise encroaches on a fielder
+  * A fielder in possession of the ball touches the batter with the ball while the batter is not on base
+* Batters score by running a circuit from the batting area to base and back to home again. Players can complete this circuit in one or two at bats
+  * One at bat example: batter hits a home run OR batter makes it to base and back without getting out
+  * Two at bat example: batter 1 hits the ball into play and gets on base. Batter 2 hits the ball into play and the player on base runs back home without getting thrown out.
   * Note: if playing one person per team and the a batter makes it to base but decides not to attempt to run home to score, the batter returns home to bat again but does not score a point. That is, the batter does not get out but also does not score.
-* While a ball is in play and a base runner makes it home, the batting team scores a point. The base runner can be the one who batted the ball or a runner on base from the previous play. There is no base stealing.
-* The number of outs per inning is the same as the number of players on the team, two at a minimum.
-* The team with the highest score wins. 
+* You cannot have multiple players on base.
+* Batters are not required to "tag up" (i.e. return to base) when a ball is caught by a fielder.
+* Batters attempt to hit the balls thrown at them. If they fail to connect in three (good) throws, they're out. Bad throws are considered balls. There are no walks.
+* A player on base cannot attempt to steal home.
 
 ## Safety Considerations
 * To avoid collisions with the pitcher or another base runner, players should always run to the right of the pitching area.
-* When throwing a ball at a base runner, don't to aim at the head or face. 
+* When throwing a ball at a base runner, don't aim at the head or face. 
